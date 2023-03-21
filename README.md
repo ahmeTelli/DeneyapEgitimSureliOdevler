@@ -1,0 +1,2 @@
+# DeneyapEgitimSureliOdevler
+Süreli Ödevlerin Cevapları
